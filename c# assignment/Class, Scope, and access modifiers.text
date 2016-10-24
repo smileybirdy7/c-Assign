@@ -1,0 +1,9 @@
+In the "Classes" video, I learned how we can use this very beneficial tool to help us properly set up our code. 
+Instead of having some very messy and sloppy code like in JavaScript, we can have some very precise and beautiful code in C#. 
+This is what this video mostly covered about how we can use classes to help us clean up our code.
+
+In the next video called "Scope and Access Modifiers", I learned about two different "access modifiers", which are called public and private. 
+This video also explained and showed me the difference between using these two modifiers. 
+When we use a public modifier in our class, we can not only access the code inside this class, but also any code from other class that are labeled public. 
+However, when we use a private modifier we can't use the code outside of the class this modifier is in. 
+The program we are using also can't see any code from a class with a private modifier because it is marked private.
