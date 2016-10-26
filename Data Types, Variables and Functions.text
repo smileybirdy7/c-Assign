@@ -1,0 +1,11 @@
+In the first video called Data Types, I learned about two datatypes, which are value and reference. 
+The guy in the video went on to name some values like int, float, double, bool, char, and Structs (Vector3 and Quaternion), and then he named the two common classes (Transform and GameObject).
+The guy in the video also explained the difference between these two datatypes. He said that a value "contains some value", and the reference basically lets us know where we can find that value. 
+He also said that if a value gets changed then it only has an impact on that certain value, but if the reference gets changed everything related to that certain reference is impacted.
+
+In the next video called Variables and Functions, I learned how to set up and use variables and functions. But first the guy in the video talked to us about variables and compared them to boxes. 
+First he told us to select the kind of box we want, and then he told us to name the box. Then he told us to either end our box with a semicolon or give some things or info for it to contain. 
+Then for mostly the rest of the video he explained how we set up functions and how we can use them to do the things we want to do.
+
+
+
