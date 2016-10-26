@@ -1,0 +1,17 @@
+In the first video called C# VS JS Syntax, I learned some differences between the way we set up code in C# and JavaScript. 
+The first difference the guy stated in the video, was that "class declarations" are seen in C#, but not seen in JavaScript.
+Another big difference between these two programs, is we use var in JavaScript when giving a variable a name, but we don't use var in C#.
+When beginning a function in C# we don't have to put the word "function" at the start, but in JavaScript we do.
+The last difference the guy in the video stated, was the different "access modifiers" the defaults in these programs are set to. He said that in C# "the default is private," and in Javascript "the default is public."
+
+In the next video called Conventions and Syntax, I learned first about the dot operator, which according to the guy in the video, "effectively allowing you to separate or access elements of a compound item in Unity."
+The next thing the guy in the video talked about was the significance of the semicolon, which its importance according to the guy in the video is "to terminate statements."
+Then the guy in the video talked about how important it is to indent some of your code, so we and others can understand it better.
+Then lastly, the guy showed us how to leave comments for ourselves or others, by first putting a slash then an asterisk, and then when we are done with our comment to put an asterisk and then a slash.
+He also told us that we can use comments to leave out code that we don't want to include for the time being.
+
+In the next video called "Scope and Access Modifiers", I learned about two different "access modifiers", which are called public and private. 
+This video also explained and showed me the difference between using these two modifiers. 
+When we use a public modifier in our class, we can not only access the code inside this class, but also any code from other classes that are labeled public. 
+However, when we use a private modifier we can't use the code outside of the class this modifier is in. 
+The program we are using also can't see any code from a class with a private modifier because it is marked private. 
