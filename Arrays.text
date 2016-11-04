@@ -1,0 +1,8 @@
+According to the guy in the "Arrays" video,"arrays are a way of storing a collection of data of the same type together." 
+He explained how important square brackets are in setting up an array.
+In the video he also showed us what arrays are, by setting one up on his computer. 
+He also gave us the syntax for an array which is, type[] nameOfArray = new type[number of elements];
+Then he showed us how to set up "the index of an element" in an array. 
+He first showed us how to index an element in an array individually, and then he showed us how to do it all in a single line.
+The example he showed in the video is the following:  int [] myIntArray = {12, 76, 8, 937, 903};
+Then he explained how public modifiers can be seen "in the inspector." He also explained how arrays work very well with for loops.
