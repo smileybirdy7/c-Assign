@@ -1,4 +1,4 @@
 In the enumerations video, I learned that enumerations or enums are similar to arrays, because an array has more than one value. 
 In the video, the guy talked about enumerations inside and outside of a class, but in the video he gave an example of an enumeration inside the class. 
 The differnce between these two different ways, is when you have an enumeration inside the class only that class can use that enumeration, but if the enumeration is outside numerous classes can use it.
-The guy in the video also showed us an enumeration'Ss syntax, and how to set up the entire thing using his in class direction example.
+The guy in the video also showed us an enumeration's syntax, and how to set up the entire thing using his in class direction example.
