@@ -1,0 +1,9 @@
+In the loop video, I first learned about the while loop, what it means, and its syntax. 
+Then I learned about the do while loop and its syntax. 
+A few significant differences between the while loop and the do while loop, is 
+1) the do while loop starts with the word "do" 2) the do while loop uses a semicolon, but the while loop doesn't, and
+ 3) the content in the do while loop runs once and the content in the while loop runs numerous times.
+ The next loop I learned about was the for loop, which has a similar syntax to the while loop. 
+ This similarity is the for or while word and then the stuff in the parenthesises, and then the body of the syntax.   
+ The contents in this loop also runs a few times as well.
+ Lastly, I learned about a new loop called the foreach loop and its syntax that is very similar to an array.
